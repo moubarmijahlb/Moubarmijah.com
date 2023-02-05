@@ -2454,6 +2454,19 @@ h3.product-title {
 	line-height: 1.1;
 }
 
+.product-info-all-sections {
+	padding: 0px 40px 0px 10px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.product-info-section {
+	padding: 0 5px;
+}
+
 .product-text {
 	margin-top: 25px;
 	color: #000000;
