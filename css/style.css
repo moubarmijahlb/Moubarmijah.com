@@ -787,7 +787,7 @@ h3.box-icon-title {
 }
 
 .box-custom-3-img-wrap img {
-	filter: drop-shadow(0 15px 10px rgba(0, 0, 0, 0.2)) blur(3px);
+	filter: drop-shadow(0 15px 10px rgba(0, 0, 0, 0.2)) blur(4px);
 	transform: rotate(-30deg);
     translate: 10% 20%;
 }
