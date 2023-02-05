@@ -2384,12 +2384,12 @@ textarea.form-input {
 	background-color: #ffffff;
 	box-shadow: 0 7px 20px rgba(0, 0, 0, 0.15);
 	border-radius: 10px 100px 70px 70px;
-	padding: 30px 10px 40px 20px;
+	padding: 30px 10px 10px 20px;
 }
 
 @media (min-width: 576px) {
 	.product {
-		padding: 48px 10px 68px 36px;
+		padding: 48px 10px 15px 36px;
 	}
 }
 
@@ -2477,6 +2477,13 @@ h3.product-title {
     text-decoration-color: #ED9AF1;
 }
 
+.laptop-note {
+	font-size: 14px;
+    color: rgba(0, 0, 0, 0.5);
+	text-align: center;
+	margin-top: 25px;
+	padding: 0 5px;
+}
 /*
 * Page layout
 */
