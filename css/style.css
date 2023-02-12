@@ -2163,6 +2163,14 @@ textarea.form-input {
 	margin-top: 10px;
 }
 
+.post-classic-text a {
+	color: #CFBAF0;
+}
+
+.post-classic-text a:hover {
+	color: #F5C7F7;
+}
+
 /*
 * Quotes
 */
