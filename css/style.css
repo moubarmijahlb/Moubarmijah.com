@@ -5211,7 +5211,7 @@ html.rd-navbar-fixed-linked header {
 	box-shadow: -60px 20px 40px rgba(0, 0, 0, 0.07);
 }
 
-.swiper-decorative-circle:after {
+.swiper-decorative-circle::after {
 	content: "";
     width: 100%;
     height: 100%;
