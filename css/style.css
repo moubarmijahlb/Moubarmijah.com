@@ -5237,6 +5237,7 @@ html.rd-navbar-fixed-linked header {
     	height: 90%;
 		transform: translateX(5%) translateY(5%) rotate(-10deg);
 		background-position: top 30% left 23%;
+		background-size: 300%;
 	}
 }
 
