@@ -18,6 +18,8 @@
 		livedemo = true,
 
 		plugins = {
+			bootstrapTooltip:        $( '[data-toggle="tooltip"]' ),
+			popover:                 $( '[data-toggle="popover"]' ),
 			customToggle:            $( '[data-custom-toggle]' ),
 			captcha:                 $( '.recaptcha' ),
 			copyrightYear:           $( '.copyright-year' ),
